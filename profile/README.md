@@ -8,9 +8,12 @@
 - 🚧 Check out our cool [website!](https://crazygird.github.io) (in progress)
 
 <br>
-<br>
   
 <h2 > Join the Organization to help us develop our small site!
 
-
 </h2>
+
+
+## Stats:
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crazygird-Organization)](https://github.com/anuraghazra/github-readme-stats)
