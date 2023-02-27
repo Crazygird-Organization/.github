@@ -3,12 +3,11 @@
 
 ## Stuff We're doing
 
-- Mostly just the site.
+ - 🚧 We are currently putting most of out efforts into our [site.](https://crazygird.github.io)  
+ 
+ - Other stuff. 😏
 
-- 🚧 Check out our cool [website!](https://crazygird.github.io) (in progress)
 
-<br>
-  
 
 
 
