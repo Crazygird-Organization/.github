@@ -1,4 +1,5 @@
-<h1 align="center">Welcome to the Crazygird Organization! 
+<h1 align="center">Welcome to the Crazygird Organization!
+<div>⚠️ If you know css, it would be a life-saver for us. (just look at out site)</div>
 </h1>
 
 ## Stuff We're doing
