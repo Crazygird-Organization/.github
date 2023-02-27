@@ -9,11 +9,10 @@
 
 <br>
   
-<h2 > Join the Organization to help us develop our small site!
+<h2 > Join the Organization to help us develop our small site! 😀
 
 </h2>
 
 
-## Stats:
 
 
