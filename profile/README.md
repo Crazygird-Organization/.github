@@ -6,6 +6,9 @@
  - 🚧 We are currently putting most of out efforts into our [site.](https://crazygird.github.io)  
  
  - Other stuff. 😏
+ 
+ 
+ ## Feel free to join, just send me a message! 😀
 
 
 
