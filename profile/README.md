@@ -8,7 +8,7 @@
  - Other stuff. 😏
  
  
- ## Feel free to join, just send me a message! 😀
+ ## If you want to join, just send us a message! 😀
 
 
 
