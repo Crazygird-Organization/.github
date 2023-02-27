@@ -7,6 +7,8 @@
 
 - 🚧 Check out our cool [website!](https://crazygird.github.io) (in progress)
 
+<br>
+<br>
   
 <h2 > Join the Organization to help us develop our small site!
 
