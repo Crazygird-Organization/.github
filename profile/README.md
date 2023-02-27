@@ -2,7 +2,7 @@
 <div></div>
 </h1>
 
-##⚠️ If you know css, it would be a life-saver for us. (just look at out site)
+## ⚠️ If you know css, it would be a life-saver for us. (just look at out site)
 
 ## Stuff We're doing
 
